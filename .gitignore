@@ -1,0 +1,9 @@
+.vs/
+*.obj
+*.pdb
+*.tlog
+*.log
+*.ilk
+*.recipe
+x64/
+WCI/x64/
